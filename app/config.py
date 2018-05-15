@@ -1,0 +1,13 @@
+import os
+
+DEBUG = True
+MAIL_SERVER = "localhost"
+MAIL_PORT = 25
+MAIL_USE_TLS = False
+MAIL_USE_SSL = False
+MAIL_USERNAME = None
+MAIL_PASSWORD = None
+MAIL_DEFAULT_SENDER = 'xx@example.com'
+KEY = 'secret'
+ACTIVATION_EXPIRE_DAYS = 5
+TOKEN_EXPIRE_HOURS = 1
